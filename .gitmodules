@@ -1,0 +1,6 @@
+[submodule "tool"]
+	path = tool
+	url = https://github.com/cuongcuongdt20-ui/tool.git
+[submodule "Desktop_Drowning_Detection"]
+	path = Desktop_Drowning_Detection
+	url = https://github.com/doanhopnguyen/Desktop_Drowning_Detection.git
