@@ -1,3 +1,3 @@
 # Drowning Detection
 
-https://www.kaggle.com/datasets/nvbangg/yolo-dataset-drowning
+https://www.kaggle.com/datasets/nvbangg/yolo-drowning-dataset
